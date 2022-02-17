@@ -3,3 +3,178 @@
     margin: 0;
     padding: 0;
  }
+
+ main{
+    width: 1234px;
+    margin: 50px auto;
+    
+   
+}
+
+.row {S
+    margin-top: -17px;
+}
+img{
+    width: 100%;
+    height: 90%;
+    object-fit: contain;
+}
+
+span{
+    margin-left: 25px;
+}
+
+.levi{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight: 100;
+}
+
+.fit{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.price{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: red;
+}
+
+.line{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 100;
+    font-style: oblique;
+    text-decoration: line-through;
+}
+
+.heart{
+    margin-left: 130px;
+    bottom: 490px;
+    width: 22px;
+    height: 20px;
+    background-color: white;
+    text-align: center;
+    
+}
+
+.redp{
+    width: 30px;
+    height: 20px;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+    text-align: center;
+    margin-left: -108px;
+    position:relative;
+    bottom: 80px;
+    display: inline-block;
+}
+
+.green{
+    width: 100px;
+    height: 20px;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+    text-align: center;
+    margin-left: 60px;
+    position: relative;
+    bottom: 100px;
+}
+
+.box-web1 {
+    display: inline-block;
+    width: 378px;
+    height: 525px;
+    position: relative;
+    margin: 0px -18px;
+    
+}
+
+.box-web2 {
+    display: inline-block;
+    width: 378px;
+    height: 525px;
+    position: relative;
+    bottom: 20px;
+    margin: 0px -18px;
+    
+}
+
+.box-web3 {
+    display: inline-block;
+    width: 378px;
+    height: 525px;
+    position: relative;
+    bottom: 20px;
+    margin: 0px -19px;
+    
+}
+
+.box-web4 {
+    display: inline-block;
+    width: 378px;
+    height: 525px;
+    position: relative;
+    
+    margin: 0px -18px;
+    
+}
+
+.box-web5 {
+    display: inline-block;
+    width: 378px;
+    height: 525px;
+    position: relative;
+    top: -20px;
+    margin: 0px -18px;
+    
+}
+
+.box-web6 {
+    display: inline-block;
+    width: 378px;
+    height: 525px;
+    position: relative;
+    bottom: 4px;
+    margin: 0px -18px;
+    
+}
+ 
+.heart{
+    position: absolute;
+    left: 200px;
+}
+
+.redp{
+    width: 30px;
+    height: 20px;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+    text-align: center;
+    margin-left: -108px;
+    position:relative;
+    bottom: 80px;
+    display: inline-block;
+}
+
+.greenp{
+    width: 100px;
+    height: 20px;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+    text-align: center;
+    margin-left: 25px;
+    position: relative;
+    bottom: 100px;
+}
